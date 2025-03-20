@@ -20,4 +20,6 @@ A computer mouse controlled using eye movements and blinking, built with OpenCV,
    git clone https://github.com/AayushPrasad22/Visionary-Pointer.git
    cd Visionary-Pointer
 
+Install dependencies:
+
 pip install -r requirements.txt
