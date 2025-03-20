@@ -1,0 +1,36 @@
+# Bytecode and cache files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environments
+venv/
+env/
+.venv/
+*.env
+
+# Logs and temporary files
+logs/
+*.log
+*.tmp
+
+# IDE and editor-specific files
+.vscode/
+.idea/
+*.sublime-workspace
+
+# Jupyter Notebook checkpoints (if used)
+.ipynb_checkpoints/
+
+# Operating system files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# MediaPipe and OpenCV temporary files (if applicable)
+mediapipe_cache/
+opencv_cache/
+
+# Ignore requirements.txt backup (if any)
+requirements.txt~
