@@ -13,3 +13,9 @@ A computer mouse controlled using eye movements and blinking, built with OpenCV,
 🔹 Cursor Movement: Moves the mouse pointer accordingly.
 🔹 Blink Detection: Detects eyelid distance to simulate a click.
 
+## Installation
+
+1. Clone the repository:
+   ```sh
+   git clone https://github.com/AayushPrasad22/Visionary-Pointer.git
+   cd Visionary-Pointer
