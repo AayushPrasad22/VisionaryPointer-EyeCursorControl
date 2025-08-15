@@ -17,10 +17,10 @@ Hands-Free Control for accessibility and futuristic interaction
 
 ⚙️ How It Works
 
-- 🔹 **Face Detection**: Uses MediaPipe Face Mesh for facial landmark detection.  
-- 🔹 **Eye Tracking**: Maps eye movement to screen coordinates.  
-- 🔹 **Cursor Movement**: Moves the mouse pointer accordingly.  
-- 🔹 **Blink Detection**: Detects eyelid distance to simulate a click.  
+🔹 **Face Detection**: Uses MediaPipe Face Mesh for facial landmark detection.  
+🔹 **Eye Tracking**: Maps eye movement to screen coordinates.  
+🔹 **Cursor Movement**: Moves the mouse pointer accordingly.  
+🔹 **Blink Detection**: Detects eyelid distance to simulate a click.  
 
 🛠️ Tech Stack
 ```
