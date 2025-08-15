@@ -6,7 +6,7 @@ This project uses OpenCV, MediaPipe, and PyAutoGUI to track your eyes via a webc
 ---
 
 ## ✨Features
-```
+
 Real-Time Eye Tracking using MediaPipe FaceMesh
 
 Mouse Movement with Eye Gaze
@@ -14,7 +14,7 @@ Mouse Movement with Eye Gaze
 Click with Eye Blink (left eye blink triggers a click)
 
 Hands-Free Control for accessibility and futuristic interaction
-```
+
 ⚙️ How It Works
 
 - 🔹 **Face Detection**: Uses MediaPipe Face Mesh for facial landmark detection.  
