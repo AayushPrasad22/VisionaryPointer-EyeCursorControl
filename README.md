@@ -15,15 +15,13 @@ Click with Eye Blink (left eye blink triggers a click)
 
 Hands-Free Control for accessibility and futuristic interaction
 ```
-
-## ⚙️ How It Works
+⚙️ How It Works
 
 - 🔹 **Face Detection**: Uses MediaPipe Face Mesh for facial landmark detection.  
 - 🔹 **Eye Tracking**: Maps eye movement to screen coordinates.  
 - 🔹 **Cursor Movement**: Moves the mouse pointer accordingly.  
 - 🔹 **Blink Detection**: Detects eyelid distance to simulate a click.  
-```
-```
+
 🛠️ Tech Stack
 ```
 Python 3.8+
