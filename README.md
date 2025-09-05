@@ -7,11 +7,11 @@ This project leverages **OpenCV, MediaPipe, and PyAutoGUI** to track your eyes v
 
 ## 📊 Badges  
 
-![Python](https://img.shields.io/badge/Python-3.8%2B-blue?logo=python)  
-![OpenCV](https://img.shields.io/badge/OpenCV-4.x-green?logo=opencv)  
-![MediaPipe](https://img.shields.io/badge/MediaPipe-0.9-orange)  
-![PyAutoGUI](https://img.shields.io/badge/PyAutoGUI-automation-lightgrey)  
-![License](https://img.shields.io/badge/License-MIT-yellow.svg)  
+![Python](https://img.shields.io/badge/Python-3.8%2B-blue?logo=python) 
+![OpenCV](https://img.shields.io/badge/OpenCV-4.x-green?logo=opencv) 
+![MediaPipe](https://img.shields.io/badge/MediaPipe-0.9-orange) 
+![PyAutoGUI](https://img.shields.io/badge/PyAutoGUI-automation-lightgrey) 
+![License](https://img.shields.io/badge/License-MIT-yellow.svg) 
 ![Contributions](https://img.shields.io/badge/Contributions-Welcome-brightgreen)  
 
 ---
