@@ -50,3 +50,12 @@ Clone the repository:
 ```bash
 git clone https://github.com/AayushPrasad22/Visionary-Pointer.git
 cd Visionary-Pointer
+
+```
+📜 License
+```
+MIT License © 2025 Aayush Prasad
+
+---
+
+👉 Would you like me to also **design a banner image for your project (with icons and title)** so you can directly use it in your README?
