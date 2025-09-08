@@ -46,8 +46,7 @@ This project leverages **OpenCV, MediaPipe, and PyAutoGUI** to track your eyes v
 ## 🚀 Installation  
 
 Clone the repository:  
-
-```bash
+```
 git clone https://github.com/AayushPrasad22/Visionary-Pointer.git
 cd Visionary-Pointer
 
