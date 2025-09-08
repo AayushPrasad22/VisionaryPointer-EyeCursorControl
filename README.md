@@ -49,7 +49,6 @@ Clone the repository:
 ```
 git clone https://github.com/AayushPrasad22/Visionary-Pointer.git
 cd Visionary-Pointer
-
 ```
 📜 License
 MIT License © 2025 Aayush Prasad
